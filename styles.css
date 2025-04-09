@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
 body {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 50px;
   background-color: white;
   display: flex;
   justify-content: center;
