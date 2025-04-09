@@ -11,10 +11,9 @@ body {
 }
 
 .box {
-  margin: 20px;
-  border: 15px solid blue;
-  padding: 50px;
   width: 300px;
-  background-color: lightblue;
-  font-family: monospace;
-}
+    background-color: lightblue;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+    font-family: monospace;
